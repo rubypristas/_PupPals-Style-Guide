@@ -1,0 +1,54 @@
+/* Header Styles */
+* {outline: 1px solid red;}
+
+.header {
+    height: 250px;
+
+
+    background-color: beige;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom;
+
+}
+ 
+.pageTopic {
+    text-align: center;
+
+}
+
+.colorContainer {
+    display: inline-block;
+    margin: 80px;
+}
+
+.swatch {
+    height: 200px;
+    width: 170px;
+    border: 1px solid black;
+}
+
+.hexCode { 
+    padding: 15px;
+    text-align: center;
+    border: 1px solid black; 
+    border-top: 0;
+}
+.type_container {
+    display: inline-block;
+    margin: 20px
+}
+.button {
+    display: inline-block;
+    padding: 15px;
+    margin: 15px;
+    width: 150px;
+    text-align: center;
+    color: white;
+    
+}
+/* Primary Color */
+
+/* Typography CSS */
+
+/* UI Elements */

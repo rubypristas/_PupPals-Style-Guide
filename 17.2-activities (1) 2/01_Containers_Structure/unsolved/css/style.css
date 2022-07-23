@@ -1,0 +1,72 @@
+/*  Hi! your going to write styles here in the next couple activities. */
+
+.pageTopic {
+    text-align: center;
+}
+
+.colorContainer {
+    display: inline-block;
+    margin: 50px;
+
+}
+
+.swatch {
+    height: 200px;
+    width: 170px;
+    border: 1px solid black;
+}
+
+.hexCode { 
+    padding: 15px;
+    text-align: center;
+    border: 1px solid black; 
+    border-top: 0;
+}
+
+
+.type_container {
+    display: inline-block;
+    margin: 20px
+}
+.button {
+    display: inline-block;
+    padding: 15px;
+    margin: 15px;
+    width: 150px;
+    text-align: center;
+    color: white;
+}
+.Green {
+    background-color: #287f8e;
+}
+
+.lightBlue {
+    background-color: #a6d2d4;
+}
+.lightGreen {
+    background-color: #c0b65a;
+
+}
+.red { 
+    background-color: #e06547;
+    
+}
+.pink {
+    background-color: #e5cec6
+}
+
+.grey {
+    background-color: #b2b7bf}
+
+.button1 {
+    background-color: #c0b65a;
+ 
+}
+.button2 {
+    background-color:  #1D2C5A
+}
+.button3 {
+    background: #B8AF5C;
+}
+body {font-family: 'Montserrat', sans-serif;
+}
